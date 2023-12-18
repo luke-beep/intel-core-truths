@@ -35,7 +35,7 @@
 ---
 
 > [!NOTE]
-> This presentation was published by Intel on their website in december 2023. I am not the author of this presentation, I am simply archiving it here for posterity. Original link can be found [here](https://www.intel.com/content/www/us/en/content-details/794505/core-truths-how-the-latest-technology-is-not-always-what-it-seems.html).
+> This presentation was published by Intel on their website in December 2023. I am not the author of this presentation, I am simply archiving it here for posterity. Original link can be found [here](https://www.intel.com/content/www/us/en/content-details/794505/core-truths-how-the-latest-technology-is-not-always-what-it-seems.html).
 
 ![Slide 1](assets/Intel%20Core%20Truths%20Presentation/Slide1.jpg)
 ![Slide 2](assets/Intel%20Core%20Truths%20Presentation/Slide2.jpg)
