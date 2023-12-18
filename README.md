@@ -64,3 +64,9 @@
 ![Slide 25](assets/Intel%20Core%20Truths%20Presentation/Slide25.jpg)
 ![Slide 26](assets/Intel%20Core%20Truths%20Presentation/Slide26.jpg)
 ![Slide 27](assets/Intel%20Core%20Truths%20Presentation/Slide27.jpg)
+
+---
+
+**<div align="center" id="footer">© 2023 LukeHjo<div>**
+<br>
+<div align="right"><a href="#">(Back to top)</a></div>
